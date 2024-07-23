@@ -8,3 +8,7 @@ Here You can the Hacker Earth code solution in python:
 2. You are provided an array A of size N that contains non-negative integers. Your task is to determine whether the number that is formed by selecting the last digit of all the N numbers is divisible by 10.
 
 3. You are required to enter a word that consists of x and y that denote the number of Zs and Os respectively. The input word is considered similar to word zoo if 2 * x = y.
+
+4. You are given two arrays a1,a2,...,an and b1,b2,...,bn. In each step, you can set ai = ai - bi if ai >= bi. Determine the minimum number of steps that are required to make all a's equal.
+
+5. 
