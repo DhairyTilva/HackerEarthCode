@@ -12,3 +12,5 @@ Here You can the Hacker Earth code solution in python:
 4. You are given two arrays a1,a2,...,an and b1,b2,...,bn. In each step, you can set ai = ai - bi if ai >= bi. Determine the minimum number of steps that are required to make all a's equal.
 
 5. Bob has a playlist of N songs, each song has a singer associated with it (denoted by an integer). Favourite singer of Bob is the one whose songs are the most on the playlist. Count the number of Favourite Singers of Bob
+
+6. Arpasland has surrounded by attackers. A truck enters the city. The driver claims the load is food and medicine from Iranians. Ali is one of the soldiers in Arpasland. He doubts about the truck, maybe it's from the siege. He knows that a tag is valid if the sum of every two consecutive digits of it is even and its letter is not a vowel. Determine if the tag of the truck is valid or not. We consider the letters "A","E","I","O","U","Y" to be vowels for this problem.
