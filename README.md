@@ -11,4 +11,4 @@ Here You can the Hacker Earth code solution in python:
 
 4. You are given two arrays a1,a2,...,an and b1,b2,...,bn. In each step, you can set ai = ai - bi if ai >= bi. Determine the minimum number of steps that are required to make all a's equal.
 
-5. 
+5. Bob has a playlist of N songs, each song has a singer associated with it (denoted by an integer). Favourite singer of Bob is the one whose songs are the most on the playlist. Count the number of Favourite Singers of Bob
